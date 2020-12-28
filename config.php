@@ -8,7 +8,7 @@
 
 	spl_autoload_register($autoload);
 
-	define('INCLUDE_PATH','http://localhost/Form_dinamico/'); //Diretório Raiz do site
+	define('INCLUDE_PATH','http://localhost/FormAjaxPHP/'); //Diretório Raiz do site
 
 	// INFORMAÇÕES PARA O BANCO DE DADOS
 	define('HOST','localhost');
